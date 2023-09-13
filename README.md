@@ -1,4 +1,3 @@
-# self-published-poet-website
 
 # Project Roadmap: Self-Published Poet Website
 
